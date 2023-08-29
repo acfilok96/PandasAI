@@ -1,4 +1,6 @@
 # Pandas-AI
+![aaaaaaa](https://github.com/acfilok96/Pandas-AI/assets/88615645/9b0dcfe4-96d1-44eb-80ef-cbd748fc13c7)
+
 The PandasAI Platform is a revolutionary tool that leverages the capabilities of the Pandas library and artificial intelligence techniques to streamline and automate data analysis and manipulation tasks. This platform is designed to be user-friendly and accessible, empowering both beginners and experienced data analysts to work with data more efficiently.
 
 Envision having the ability to engage with your data as if it were your most trusted companion. This is precisely what Pandas AI brings to the table! This Python library boasts advanced generative artificial intelligence capabilities, transforming your dataframes into conversational partners. Say goodbye to those countless hours spent gazing at rows and columns.
